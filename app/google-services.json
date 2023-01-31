@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056728155195",
+    "firebase_url": "https://travelbee-55e34-default-rtdb.firebaseio.com",
+    "project_id": "travelbee-55e34",
+    "storage_bucket": "travelbee-55e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056728155195:android:a66bccab96249ff892481e",
+        "android_client_info": {
+          "package_name": "com.example.travelbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056728155195-r25if0m8en56rl2gqnq1vafv73e59iim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-et36SIi7mxSBlTLQexYaL-ikdoo_YTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056728155195-r25if0m8en56rl2gqnq1vafv73e59iim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/todo">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="393dp"
+        android:layout_height="283dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/todo"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/displayTitle"
+        android:layout_width="371dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="@font/baloo"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/displayLocation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView"
+        android:layout_width="376dp"
+        android:layout_height="550dp"
+        android:layout_marginTop="28dp"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="2dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/displayLocation">
+
+        <ImageView
+            android:id="@+id/displayImage"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ic_launcher_background" />
+
+        <TextView
+            android:id="@+id/displayDate"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_marginTop="225dp"
+            android:background="@color/buttons"
+            android:fontFamily="@font/baloo"
+            android:paddingTop="5dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/displayDescription"
+            android:layout_width="match_parent"
+            android:layout_height="276dp"
+            android:layout_marginTop="276dp"
+            android:background="@drawable/light_purple_gradient"
+            android:fontFamily="@font/actor"
+            android:padding="10dp"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="17dp" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/displayLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/displayTitle" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

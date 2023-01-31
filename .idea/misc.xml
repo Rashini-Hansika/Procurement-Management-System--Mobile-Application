@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/drawable-v24/circular_grey_bordersolid.xml" value="0.1" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/drawable-v24/circularbordersolid.xml" value="0.1" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_budget.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_chat.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_compass.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_create_memory.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_create_note.xml" value="0.1" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_currency.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_dashboard.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_display_memories.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_distance_calculator.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_editnote.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_login.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_main_todo.xml" value="0.2" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_memory_page.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_notedetails.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_notes.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_register.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_rvactivity.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_splash_screen.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_temperature_calculator.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_update_memory.xml" value="0.1" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/activity_weather.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/fragment_chat_list.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/fragment_home.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/fragment_users.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/input_budget_layout.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/item.xml" value="0.1932367149758454" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/layout_item.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/notes_layout.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/retrieve_budget.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/row_chat_left.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/row_users.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/layout/update_budget.xml" value="0.2074074074074074" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/2022.05.09 with new DB/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.156" />
+        <entry key="..\:/2022.05.09/app/src/main/res/layout/activity_chat.xml" value="0.2234375" />
+        <entry key="..\:/2022.05.09/app/src/main/res/layout/activity_create_memory.xml" value="0.1361111111111111" />
+        <entry key="..\:/2022.05.09/app/src/main/res/layout/activity_login.xml" value="0.1361111111111111" />
+        <entry key="..\:/2022.05.09/app/src/main/res/layout/activity_main.xml" value="0.1361111111111111" />
+        <entry key="..\:/Byte-Minions/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/Byte-Minions/app/src/main/res/layout/activity_main_todo.xml" value="0.203125" />
+        <entry key="..\:/Byte-Minions/app/src/main/res/layout/activity_rvactivity.xml" value="0.203125" />
+        <entry key="..\:/Byte-Minions/app/src/main/res/layout/layout_item.xml" value="0.203125" />
+        <entry key="..\:/Byte-Minions/app/src/main/res/menu/option_menu.xml" value="0.2708333333333333" />
+        <entry key="..\:/MADPROJECT/Byte-Minions/app/src/main/res/layout/activity_currency.xml" value="0.2708333333333333" />
+        <entry key="..\:/MADPROJECT/Byte-Minions/app/src/main/res/layout/activity_weather.xml" value="0.2708333333333333" />
+        <entry key="..\:/MADPROJECT/Byte-Minions/app/src/main/res/menu/option_menu.xml" value="0.2520833333333333" />
+        <entry key="..\:/NEWMAD/Byte-Minions/app/src/main/res/layout/activity_currency.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable-hdpi/light_blue_gradient.xml" value="0.1" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable-mdpi/ic_menu.xml" value="0.12037037037037036" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable/backarrow.xml" value="0.13333333333333333" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable/ic_plus_24.xml" value="0.26666666666666666" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable/shape.xml" value="0.19322916666666667" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/drawable/yellow_black_gradiant.xml" value="0.171875" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/font/aladin.xml" value="0.1953125" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/font/allerta.xml" value="0.1953125" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_budget.xml" value="0.2" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_chat.xml" value="0.2037037037037037" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_create_memory.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_display_memories.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_distance_calculator.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_main_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_memory_page.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_nav_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_new.xml" value="0.4" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_rvactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/activity_update_memory.xml" value="0.4" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_blogs.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_chat_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/fragment_wallet.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/input_budget_layout.xml" value="0.165625" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/main_nav_drawer.xml" value="0.25364583333333335" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/newtest.xml" value="0.16510416666666666" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/retrieve_budget.xml" value="0.1675438596491228" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/row_chat_left.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/row_chat_right.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/row_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT Documents/2nd Year/2nd Semester/MAD/Byte-Minions/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/drawable-mdpi/ic_menu.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/drawable-mdpi/light_purple_gradient.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/drawable/ic_plus_24.xml" value="0.1015" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_create_memory.xml" value="0.20364583333333333" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_display_memories.xml" value="0.19427083333333334" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_distance_calculator.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_memory_page.xml" value="0.1712962962962963" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_temperature_calculator.xml" value="0.19427083333333334" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_update_memory.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/activity_weather.xml" value="0.19427083333333334" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/menu/menu_main.xml" value="0.1111111111111111" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/menu/menu_nav.xml" value="0.1111111111111111" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/menu/option_menu.xml" value="0.1111111111111111" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/Assignments/Assignment 2/2022.05.05/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_currency.xml" value="0.10645812310797174" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_display_memories.xml" value="0.10645812310797174" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_distance_calculator.xml" value="0.10645812310797174" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_login.xml" value="0.10645812310797174" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_main_todo.xml" value="0.10645812310797174" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/New folder (2)/past Asssignments/past/Zoysa original/zoysa/app/src/main/res/layout/activity_splash_screen.xml" value="0.10822401614530777" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/drawable-v24/circular_grey_bordersolid.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/drawable-v24/circularbordersolid.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/drawable/bg_receiver.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/drawable/yellow_black_gradiant.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/layout/activity_create_memory.xml" value="0.11302083333333333" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/layout/activity_main_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/past Asssignments/past/Zoysa/zoysa/app/src/main/res/layout/activity_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-anydpi/ic_add_image.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-anydpi/ic_image_black.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-anydpi/ic_profile_black.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-hdpi/light_blue_gradient.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-mdpi/ic_menu.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/circular_grey_bordersolid.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/circularbordersolid.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_entertainment.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_more.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_other.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_person.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_person_account.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable-v24/ic_transport.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/bg_receiver.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/bg_sender.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/ic_call_24dp.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/ic_phone.xml" value="0.1245" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/shape.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/white_light_blue.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/drawable/yellow_black_gradiant.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/font/aclonica.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/font/actor.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_create_memory.xml" value="0.264" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_create_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_currency.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_editnote.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_login.xml" value="0.23854166666666668" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_main_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_notedetails.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_notes.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_rvactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_temperature_calculator.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_update_memory.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/activity_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/fragment_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/input_budget_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/notes_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/retrieve_budget.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/row_chat_left.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/row_chat_right.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/layout/row_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/2nd Year/Year 2 Semester 2/MAD      IT2010  -  Mobile Application Developement/zoysa/app/src/main/res/menu/option_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/drawable-anydpi/ic_edit_black.xml" value="0.2703125" />
+        <entry key="..\:/TravelBee/app/src/main/res/drawable-anydpi/ic_edit_white.xml" value="0.2703125" />
+        <entry key="..\:/TravelBee/app/src/main/res/drawable-hdpi/light_blue_gradient.xml" value="0.2703125" />
+        <entry key="..\:/TravelBee/app/src/main/res/drawable/bg_receiver.xml" value="0.2703125" />
+        <entry key="..\:/TravelBee/app/src/main/res/drawable/bg_sender.xml" value="0.2703125" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_add_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_create_note.xml" value="0.21041666666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_editnote.xml" value="0.21041666666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_notedetails.xml" value="0.21041666666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_notes.xml" value="0.21041666666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/activity_temperature_calculator.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_blogs.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_chat_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/fragment_wallet.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/notes_layout.xml" value="0.21041666666666667" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/row_chat_left.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/row_chat_right.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/layout/row_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelBee/app/src/main/res/menu/menu_note.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/drawable-v24/ic_add.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/drawable-v24/ic_entertainment.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/drawable-v24/ic_food.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/drawable-v24/ic_house.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/drawable-v24/ic_transport.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/layout/activity_budget.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/layout/activity_compass.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/layout/input_budget_layout.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/layout/retrieve_budget.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Y2S2/Byte-Minions/app/src/main/res/layout/update_budget.xml" value="0.1" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_budget.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_create_memory.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_create_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_display_memories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_main_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_memory_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/activity_update_memory.xml" value="0.264" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/fragment_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/input_budget_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/notes_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/retrieve_budget.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/row_chat_left.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/row_chat_right.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/layout/row_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/menu/option_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.228" />
+        <entry key="..\:/Users/Lahiru Weerasinghe/Music/2022.05.09 with new DB/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.228" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/activity_create_memory.xml" value="0.2708333333333333" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/activity_currency.xml" value="0.1" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/activity_main_todo.xml" value="0.4" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/activity_rvactivity.xml" value="0.26666666666666666" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/activity_weather.xml" value="0.19739583333333333" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/item.xml" value="0.26666666666666666" />
+        <entry key="..\:/mad_pro/Byte-Minions/app/src/main/res/layout/layout_item.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
